@@ -1,0 +1,66 @@
+.nav {
+    list-style:none;
+    text-align:center;
+}
+
+.nav li {
+    display:inline;
+    margin-right:20px;
+}
+
+.container {
+    width:1000px;
+    margin:0 auto;
+    border: 1px solid black;
+    padding: 50px;
+    background-color:white;
+}
+
+#halloween-text {
+    color:red;
+    font-size:100px;
+    font-family: 'Butcherman';
+}
+
+.halloween_cat {
+    text-align: center;
+}
+
+.copy {
+    text-align: center;
+}
+
+.home_text {
+    text-align: center;
+}
+
+.costumes_text {
+    text-align: center;
+}
+
+.story {
+    text-align: center;
+}
+
+.end {
+    text-align: center;
+}
+
+#rcorners2 {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 200px;  
+  }
+.fun {
+  font-size:30px
+}
+
+.costumes {
+    font-size:18px
+  }
+
+.text {
+    font-size:25px
+  }
